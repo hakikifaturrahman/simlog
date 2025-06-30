@@ -1,1 +1,1 @@
-# simlog
+# Sistem Informasi Manajemen Logistik(simlog)
